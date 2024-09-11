@@ -1,0 +1,39 @@
+/* Estilo para los miembros del Imperio */
+.imperio {
+  background-color: red;
+}
+
+/* Estilo para los miembros Rebeldes */
+.rebeldes {
+  background-color: blue;
+}
+
+/* Estilo para el ID de Darth Vader */
+#darth-vader {
+  font-size: 24px;
+}
+
+/* Estilo para el ID de Luke Skywalker */
+#luke {
+  font-style: italic;
+}
+
+/* Clase para los soldados con borde a rayas */
+.soldado {
+  border: 2px dashed black;
+}
+
+/* Clase para aumentar el espacio entre letras */
+.espacio-letras {
+  letter-spacing: 2px;
+}
+
+/* Clase para centralizar las unidades de apoyo */
+.unidades-apoyo {
+  text-align: center;
+}
+
+/* Clase para poner en mayúsculas el nombre de las naves */
+.naves {
+  text-transform: uppercase;
+}
